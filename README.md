@@ -4,7 +4,9 @@ A hyper-casual 2D side-scrolling space game built in **Unity** with **C#**.
 
 Guide your astronaut through open space with the mouse or your finger. Stay inside the endless boundary lines, dodge asteroids and UFOs, and score as high as you can before your lives run out.
 
-![Gameplay]([Screenshots/gameplay.png](https://github.com/sriram-game-dev/Fly-Away/blob/4b46b45ea4caadd00ffd1b32c5aabe2ae52ffce1/ScreenShot/Main%20Menu.png))
+<p align="center">
+  <img src="ScreenShot/Main%20Menu.png" width="600">
+</p>
 
 ## 🎮 Gameplay Video
 
@@ -13,8 +15,7 @@ Guide your astronaut through open space with the mouse or your finger. Stay insi
 
 ## ▶️ Play the Game
 
-- **Download:** [Latest release](../../releases) (Windows build)
-- **Play in browser:** ADD-ITCH.IO-OR-GITHUB-PAGES-LINK-HERE
+- **Download:** [Latest release](https://github.com/sriram-game-dev/Fly-Away/releases) (Windows build)
 
 ## ✨ Features
 
@@ -47,41 +48,24 @@ Guide your astronaut through open space with the mouse or your finger. Stay insi
 
 ## 🛠️ Built With
 
-- **Engine:** Unity (version: check `ProjectSettings/ProjectVersion.txt`)
+- **Engine:** Unity
 - **Language:** C#
 - **UI:** TextMeshPro
 - **Target platforms:** PC, Android phone and tablet (landscape)
 
-## 📂 Project Structure
+## 📂 Repository Contents
 
 ```
 Fly-Away/
-├── Assets/
-│   ├── Scripts/
-│   ├── Prefabs/
-│   ├── Scenes/
-│   ├── Animation/
-│   └── Sprites/
-├── Packages/
-├── ProjectSettings/
-├── Docs/
-│   └── Fly_Away_Design_Document.pdf
+├── Demo Gamplay video/
+├── Project Document/
+├── ScreenShot/
 └── README.md
 ```
 
-## 🚀 Run the Project in Unity
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/Fly-Away.git
-   ```
-2. Open **Unity Hub** → **Add** → select the cloned folder.
-3. Open it with the Unity version listed in `ProjectSettings/ProjectVersion.txt`.
-4. Open the `MainMenu` scene and press **Play**.
-
 ## 📄 Design Document
 
-The full game design document is here: [Fly_Away_Design_Document.pdf](Docs/Fly_Away_Design_Document.pdf)
+The full game design document is here: [Fly_Away_Design_Document.pdf](Project%20Document/Fly_Away_Design_Document.pdf)
 
 ## 🗺️ Roadmap
 
