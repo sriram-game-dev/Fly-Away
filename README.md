@@ -92,5 +92,5 @@ The full game design document is here: [Fly_Away_Design_Document.pdf](Docs/Fly_A
 ## 👤 Author
 
 **S. Sriram**
-- GitHub: [@Sriram S](https://github.com/sriram-game-dev)
-- Contact / portfolio: ADD-LINK-HERE
+- GitHub: [@sriram-game-dev](https://github.com/sriram-game-dev)
+- Portfolio: [sriram-game-dev.github.io/profile](https://sriram-game-dev.github.io/profile/)
