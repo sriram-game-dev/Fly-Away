@@ -4,7 +4,7 @@ A hyper-casual 2D side-scrolling space game built in **Unity** with **C#**.
 
 Guide your astronaut through open space with the mouse or your finger. Stay inside the endless boundary lines, dodge asteroids and UFOs, and score as high as you can before your lives run out.
 
-![Gameplay](Screenshots/gameplay.png)
+![Gameplay](ScreenShot/Main Menu.png)
 
 ## 🎮 Gameplay Video
 
