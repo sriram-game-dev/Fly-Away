@@ -8,8 +8,8 @@ Guide your astronaut through open space with the mouse or your finger. Stay insi
 
 ## 🎮 Gameplay Video
 
-- [Watch on PC](ADD-PC-VIDEO-LINK-HERE)
-- [Watch on Mobile](ADD-MOBILE-VIDEO-LINK-HERE)
+- [Watch on PC](https://drive.google.com/file/d/1X7UKYSgf5LBtztLGRZiCEiIObZw9U5hd/view?usp=drive_link)
+- [Watch on Mobile](https://drive.google.com/file/d/1dyQIuD5MGBcrtMfoFG7NGFO6bZmctoiY/view?usp=drive_link)
 
 ## ▶️ Play the Game
 
@@ -92,5 +92,5 @@ The full game design document is here: [Fly_Away_Design_Document.pdf](Docs/Fly_A
 ## 👤 Author
 
 **S. Sriram**
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [@Sriram S](https://github.com/sriram-game-dev)
 - Contact / portfolio: ADD-LINK-HERE
