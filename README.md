@@ -34,7 +34,9 @@ Guide your astronaut through open space with the mouse or your finger. Stay insi
 | Platform | Control |
 |----------|---------|
 | PC | Move the mouse |
+| Web (browser) | Move the mouse |
 | Android phone / tablet | Touch and drag (landscape mode) |
+
 
 ## 🧩 How It Works
 
