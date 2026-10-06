@@ -4,7 +4,7 @@ A hyper-casual 2D side-scrolling space game built in **Unity** with **C#**.
 
 Guide your astronaut through open space with the mouse or your finger. Stay inside the endless boundary lines, dodge asteroids and UFOs, and score as high as you can before your lives run out.
 
-![Gameplay](ScreenShot/Main Menu.png)
+![Gameplay]([Screenshots/gameplay.png](https://github.com/sriram-game-dev/Fly-Away/blob/4b46b45ea4caadd00ffd1b32c5aabe2ae52ffce1/ScreenShot/Main%20Menu.png))
 
 ## 🎮 Gameplay Video
 
