@@ -65,7 +65,7 @@ Fly-Away/
 
 ## 📄 Design Document
 
-The full game design document is here: [Fly_Away_Design_Document.pdf](Project%20Document/Fly_Away_Design_Document.pdf)
+The full game design document is here: [Fly Away Design Document](https://github.com/sriram-game-dev/Fly-Away/tree/main/Project%20Document)
 
 ## 🗺️ Roadmap
 
