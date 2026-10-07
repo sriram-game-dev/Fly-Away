@@ -15,6 +15,7 @@ Guide your astronaut through open space with the mouse or your finger. Stay insi
 
 ## ▶️ Play the Game
 
+- **Play in browser:** [Play Fly Away on itch.io](https://sriram-game-dev.itch.io/fly-away) (WebGL build)
 - **Download:** [Latest release](https://github.com/sriram-game-dev/Fly-Away/releases) (Windows build)
 
 ## ✨ Features
@@ -77,6 +78,6 @@ The full game design document is here: [Fly Away Design Document](https://github
 
 ## 👤 Author
 
-**S. Sriram**
+**Sriram S**
 - GitHub: [@sriram-game-dev](https://github.com/sriram-game-dev)
 - Portfolio: [sriram-game-dev.github.io/profile](https://sriram-game-dev.github.io/profile/)
